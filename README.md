@@ -1,7 +1,7 @@
 # Online-Class-Management-System
 The Online Class Management System is a web-based platform designed to facilitate various aspects of online classes. It caters to three types of users: Professors, Students, and Educational Assistants. Professors and Educational Assistants can create and manage classes, track attendance, and more. Students can participate in classes and submit assignments. Additionally, there are system support personnel responsible for system maintenance and user management.
 
-## <img width="20" height="20" src="https://img.icons8.com/windows/32/41b883/task-planning.png" alt="task-planning"/> Project Phases
+## <img width="20" height="22" src="https://img.icons8.com/windows/32/41b883/task-planning.png" alt="task-planning"/> Project Phases
 The project is divided into four phases, each serving a specific purpose:
 
 ### Phase 1: Domain Description
@@ -29,14 +29,3 @@ The fourth and final phase involved the practical implementation of our database
 - **Additional Elements**: We implemented triggers, views, procedures, and functions, with at least two instances of each.
 
 It's worth noting that some of the queries outlined in Phase 1 were brought to life in this phase, following consultation and coordination with our mentor.
-
-## Folder Structure
-
-Our project repository is organized into four folders, each corresponding to one of the project phases:
-
-- **Phase 1**: This folder contains detailed domain descriptions and sample queries.
-- **Phase 2**: It includes the ER diagram created using Max EDraw.
-- **Phase 3**: Within this folder, you'll find comprehensive schema information, along with diagrams.
-- **Phase 4**: This section encompasses the SQL implementation of the database, comprising tables, queries, constraints, and additional elements.
-
-To delve deeper into each phase, refer to the PDF files provided within the respective folders.
